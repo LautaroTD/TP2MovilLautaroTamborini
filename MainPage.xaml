@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MiAppMaui.MainPage"
+             xmlns:maui="clr-namespace:Microsoft.Maui.Controls;assembly=Microsoft.Maui.Controls"
+             xmlns:skia="clr-namespace:SkiaSharp.Views.Maui.Controls;assembly=SkiaSharp.Views.Maui.Controls">
+    
+             
+
+    <ScrollView>
+        <StackLayout
+            Padding="30,0">
+
+            <Label
+                Text="HeNRSig"
+                Style="{StaticResource Headline}"
+                VerticalOptions="Center" 
+                HorizontalTextAlignment="Center"
+                HorizontalOptions="Center" />
+
+            <Image
+                Source="nuclearsvgrepocom.png"
+                />
+
+            <Label
+                Text="Nombre Completo"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level9" />
+            
+            <Entry
+                x:Name="NombreEntry"
+                Keyboard="Text"
+                MaxLength="120"
+                IsPassword="False"/>
+
+            <Label
+                Text="Codigo de Acceso"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level9"/>
+
+            <Entry
+                x:Name="CodigoEntry"
+                Keyboard="Text"
+                MaxLength="40"
+                IsPassword="True"
+            />
+
+            <Button
+                Text="Acceder" 
+                FontSize="20"
+                HorizontalOptions="Fill" 
+                VerticalOptions="End"
+                Clicked="OnGoToSecondPageClicked"/>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

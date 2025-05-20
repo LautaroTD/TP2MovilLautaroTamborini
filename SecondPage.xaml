@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MiAppMaui.SecondPage"
+             Title="Menu">
+    <ScrollView>
+
+        <StackLayout
+            Padding="30,0">
+        
+            <Label 
+                Padding="20"
+                FontSize="20" 
+                Text="HeNRSig"
+                VerticalOptions="Center" 
+                HorizontalTextAlignment="Center"
+                HorizontalOptions="Center" />
+
+            <Label 
+                Text="Bienvenido"
+                FontSize="18" 
+                VerticalOptions="Center" 
+                HorizontalTextAlignment="Center"
+                HorizontalOptions="Center" />
+
+            <Label 
+                Text="Al libre mercado del sector energetico nuclear"
+                FontSize="18" 
+                VerticalOptions="Center" 
+                HorizontalTextAlignment="Center"
+                HorizontalOptions="Center" />
+
+            <Label
+                FontSize="30"/>
+
+            <Button
+                Text="Mercado de Combustibles"
+                HorizontalOptions="Fill" 
+                FontSize="20"
+                VerticalOptions="End"/>
+
+            <Label
+                FontSize="10"/>
+
+            <Button
+                Text="Mercado de Equipo"
+                HorizontalOptions="Fill" 
+                FontSize="20"
+                VerticalOptions="End"/>
+
+            <Label
+                FontSize="10"/>
+                
+            <Button
+                Text="Mercado de Residuos"
+                FontSize="20"
+                HorizontalOptions="Fill" 
+                VerticalOptions="End"/>
+
+            <Label
+                FontSize="10"/>
+
+            <Button
+                Text="Nuestro Contacto"
+                HorizontalOptions="Fill" 
+                FontSize="20"
+                VerticalOptions="End"
+                Clicked="OnGoToThirdPageClicked"/>
+
+            <Label
+                FontSize="10"/>
+
+            <Button
+                Text="Informacion de Aplicacion"
+                HorizontalOptions="Fill" 
+                FontSize="20"
+                VerticalOptions="End"
+                Clicked="OnGoToFourthPageClicked"/>
+
+            <Label
+                FontSize="10"/>
+
+            <Button
+                Text="Finalizar Sesion"
+                FontSize="20"
+                HorizontalOptions="Fill" 
+                VerticalOptions="End"
+                Clicked="OnGoToMainPageClicked"/>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

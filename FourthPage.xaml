@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MiAppMaui.FourthPage"
+             Title="Informacion">
+    <VerticalStackLayout
+        Padding="30,0"
+        Spacing="25">
+
+        <Button
+            Text="Volver"
+            FontSize="20"
+            HorizontalOptions="Fill" 
+            VerticalOptions="End"
+            Clicked="OnGoToSecondPageClicked"/>
+
+        <Label 
+            Text="HeNRSig"
+            Style="{StaticResource Headline}"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Label 
+            Text="Version 1.0.0"
+            FontSize="18"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Label 
+            Text="Nos orgullese satisfacer las necesidades economicas y electricas de todos nuestros clientes al presentar nuestro nuevo producto: HenRSig es una aplicacion donde empresarios, lideres, y otras personas capaces de comerciar materiales, equipo yresiduos nucleares como Uranio 235, Tritio, Carbono-14, y mas. Permitiendo la agil cooperacionentre agentes del sector para maximizar la produccion electrica de cada planta y reducir eldesafio de tareas como lidiar con residuos, conseguir remplazos de equipo, y otras tareasclave para el adecuado funcionamiento de reactores nucleares, permitiendo a todos los agentesde todos los subsectores de la industria trabajar juntos y aprovechar los beneficios que lafision y fusion brindan de la forma mas sencilla posible."
+            VerticalOptions="Center" 
+            FontSize="18"
+            HorizontalOptions="Center"
+            HorizontalTextAlignment="Center"/>
+        
+    </VerticalStackLayout>
+</ContentPage>

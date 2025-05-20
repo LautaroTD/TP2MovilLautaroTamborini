@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|c:\\users\\usuario\\source\\repos\\miappmaui - copia\\fourthpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|solutionrelative:fourthpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|c:\\users\\usuario\\source\\repos\\miappmaui - copia\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|c:\\users\\usuario\\source\\repos\\miappmaui - copia\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|c:\\users\\usuario\\source\\repos\\miappmaui - copia\\thirdpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|solutionrelative:thirdpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|c:\\users\\usuario\\source\\repos\\miappmaui - copia\\thirdpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|solutionrelative:thirdpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|c:\\users\\usuario\\source\\repos\\miappmaui - copia\\fourthpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|solutionrelative:fourthpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|c:\\users\\usuario\\source\\repos\\miappmaui - copia\\secondpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|solutionrelative:secondpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|c:\\users\\usuario\\source\\repos\\miappmaui - copia\\secondpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|solutionrelative:secondpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|c:\\users\\usuario\\source\\repos\\miappmaui - copia\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|c:\\users\\usuario\\source\\repos\\miappmaui - copia\\miappmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|solutionrelative:miappmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|c:\\users\\usuario\\source\\repos\\miappmaui - copia\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|c:\\users\\usuario\\source\\repos\\miappmaui - copia\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD658ED7-C853-0988-FC81-0E1A4687D569}|MiAppMaui.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:12:39.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecondPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\SecondPage.xaml.cs",
+              "RelativeDocumentMoniker": "SecondPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\SecondPage.xaml.cs",
+              "RelativeToolTip": "SecondPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:44:25.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThirdPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\ThirdPage.xaml.cs",
+              "RelativeDocumentMoniker": "ThirdPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\ThirdPage.xaml.cs",
+              "RelativeToolTip": "ThirdPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvwsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:16:56.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FourthPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\FourthPage.xaml.cs",
+              "RelativeDocumentMoniker": "FourthPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\FourthPage.xaml.cs",
+              "RelativeToolTip": "FourthPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:13:03.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T21:48:28.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MiAppMaui.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\MiAppMaui.csproj",
+              "RelativeDocumentMoniker": "MiAppMaui.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\MiAppMaui.csproj",
+              "RelativeToolTip": "MiAppMaui.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T19:15:02.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThirdPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\ThirdPage.xaml",
+              "RelativeDocumentMoniker": "ThirdPage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\ThirdPage.xaml",
+              "RelativeToolTip": "ThirdPage.xaml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T15:00:37.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FourthPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\FourthPage.xaml",
+              "RelativeDocumentMoniker": "FourthPage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\FourthPage.xaml",
+              "RelativeToolTip": "FourthPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T15:07:32.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecondPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\SecondPage.xaml",
+              "RelativeDocumentMoniker": "SecondPage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\SecondPage.xaml",
+              "RelativeToolTip": "SecondPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-18T18:52:08.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAEwCkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:54:46.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T18:56:08.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\MiAppMaui - copia\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-18T18:57:16.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
